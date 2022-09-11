@@ -1,2 +1,2 @@
 # SQL-DA
-Various SQL scripts for DA
+Various SQL scripts
